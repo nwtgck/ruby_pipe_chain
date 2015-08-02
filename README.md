@@ -22,7 +22,7 @@ Or install it yourself as:
 
 ## Usage
 
-```rb
+```ruby
 require 'pipe_chain'
 
 # Using pipe
