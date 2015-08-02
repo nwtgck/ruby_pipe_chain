@@ -62,3 +62,6 @@ Object.constants.select{|c| Object.const_get(c).class == Class}.map{|c| Object.c
 
 	end
 end
+
+
+puts 'hello'
