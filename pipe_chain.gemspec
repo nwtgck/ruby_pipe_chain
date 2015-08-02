@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Ryo Ota"]
   spec.email         = ["nwtgck@gmail.com"]
 
-  spec.summary       = %q{This is my first gem}
-  spec.description   = %q{Say hello world}
+  spec.summary       = %q{Method pipe chain}
+  spec.description   = %q{You can use "|" instend of "." in method chain}
   spec.homepage      = "http://nwtgck.dip.jp"
   spec.license       = "MIT"
 
